@@ -1,0 +1,227 @@
+[
+  {
+    "id": "att_40706da9f25d666a",
+    "userId": "V9pwk80IVhe86RN2wnlmixRnCO72",
+    "userEmail": "kuday6631@gmail.com",
+    "testId": "custom_53eecb292285",
+    "testTitle": "Custom Practice Test: Indian Polity & Constitution (All Exams)",
+    "score": 1,
+    "maxScore": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "unattempted": 0,
+    "accuracy": 100,
+    "timeTakenSeconds": 37,
+    "createdAt": "2026-11-13T04:31:07.270Z",
+    "questionsData": [
+      {
+        "id": 1,
+        "question": "ऋग वैदिक काल के दौरान प्रचलित राजनीतिक व्यवस्था के बारे में कौन सा कथन सत्य है?",
+        "type": "conceptual",
+        "options": {
+          "A": "राजा के पास कर एकत्र करने की शक्ति थी",
+          "B": "राजा का पुत्र स्वाभाविक रूप से उत्तराधिकारी होता था",
+          "C": "दोनों सही हैं",
+          "D": "उपर्युक्त में से कोई नहीं"
+        },
+        "selectedOption": "D",
+        "correctOption": "D",
+        "isCorrect": true,
+        "explanation": "ऋग वैदिक काल में राजा के पद वंशानुगत नहीं थे और न ही राजा नियमित कर एकत्र करते थे।",
+        "timeSpentSeconds": 37,
+        "isMarkedForReview": false,
+        "examName": "All Exams",
+        "year": "2026",
+        "subject": "Indian Polity & Constitution",
+        "chapter": "Constitutional Framework & Principles"
+      }
+    ]
+  },
+  {
+    "id": "att_078c6618c38e2521",
+    "userId": "usr_11536b4f9cc4",
+    "userEmail": "student@testbook.com",
+    "testId": "test_604eff0e4c7b",
+    "testTitle": "Indian Polity & Constitution Mock Test",
+    "score": 7.75,
+    "maxScore": 10,
+    "correct": 8,
+    "incorrect": 1,
+    "unattempted": 1,
+    "accuracy": 89,
+    "timeTakenSeconds": 340,
+    "createdAt": "2026-10-28T10:07:54.444Z",
+    "questionsData": [
+      {
+        "id": 1,
+        "question": "Sample Question 1 regarding Fundamental Rights?",
+        "type": "factual",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "C",
+        "correctOption": "C",
+        "isCorrect": true,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 2,
+        "question": "Sample Question 2 regarding Fundamental Rights?",
+        "type": "conceptual",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "C",
+        "correctOption": "C",
+        "isCorrect": true,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 3,
+        "question": "Sample Question 3 regarding Fundamental Rights?",
+        "type": "application",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "C",
+        "correctOption": "C",
+        "isCorrect": true,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 4,
+        "question": "Sample Question 4 regarding Fundamental Rights?",
+        "type": "factual",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "C",
+        "correctOption": "C",
+        "isCorrect": true,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 5,
+        "question": "Sample Question 5 regarding Fundamental Rights?",
+        "type": "conceptual",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "C",
+        "correctOption": "C",
+        "isCorrect": true,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 6,
+        "question": "Sample Question 6 regarding Fundamental Rights?",
+        "type": "application",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "C",
+        "correctOption": "C",
+        "isCorrect": true,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 7,
+        "question": "Sample Question 7 regarding Fundamental Rights?",
+        "type": "factual",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "C",
+        "correctOption": "C",
+        "isCorrect": true,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 8,
+        "question": "Sample Question 8 regarding Fundamental Rights?",
+        "type": "conceptual",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "C",
+        "correctOption": "C",
+        "isCorrect": true,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 9,
+        "question": "Sample Question 9 regarding Fundamental Rights?",
+        "type": "application",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": "A",
+        "correctOption": "C",
+        "isCorrect": false,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      },
+      {
+        "id": 10,
+        "question": "Sample Question 10 regarding Fundamental Rights?",
+        "type": "factual",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "selectedOption": null,
+        "correctOption": "C",
+        "isCorrect": false,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "timeSpentSeconds": 34,
+        "isMarkedForReview": false
+      }
+    ]
+  }
+]

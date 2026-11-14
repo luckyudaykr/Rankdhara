@@ -1,0 +1,254 @@
+[
+  {
+    "question": "Which of the following is the capital of India?",
+    "options": {
+      "A": "Mumbai",
+      "B": "New Delhi",
+      "C": "Kolkata",
+      "D": "Chennai"
+    },
+    "correctOption": "B",
+    "explanation": "New Delhi is the capital of India.",
+    "type": "factual",
+    "sourcePages": "Page 1",
+    "examName": "U.P.P.C.S. Pre",
+    "year": "2020",
+    "answerStatus": "found",
+    "pageNumber": 1,
+    "questionNumber": 1,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "correctOption": "B",
+    "explanation": "Mars is called the Red Planet due to iron oxide.",
+    "type": "factual",
+    "sourcePages": "Page 1",
+    "examName": "B.P.S.C.",
+    "year": "2021",
+    "answerStatus": "found",
+    "pageNumber": 1,
+    "questionNumber": 2,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "What is the chemical formula of water?",
+    "options": {
+      "A": "CO2",
+      "B": "H2O",
+      "C": "NaCl",
+      "D": "O2"
+    },
+    "correctOption": "B",
+    "explanation": "H2O consists of hydrogen and oxygen.",
+    "type": "factual",
+    "sourcePages": "Page 2",
+    "examName": "U.P.P.C.S. Pre",
+    "year": "2019",
+    "answerStatus": "found",
+    "pageNumber": 2,
+    "questionNumber": 3,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "Who wrote the National Anthem of India?",
+    "options": {
+      "A": "Bankim Chandra Chattopadhyay",
+      "B": "Rabindranath Tagore",
+      "C": "Sarojini Naidu",
+      "D": "Mahatma Gandhi"
+    },
+    "correctOption": "B",
+    "explanation": "Jana Gana Mana was written by Rabindranath Tagore.",
+    "type": "factual",
+    "sourcePages": "Page 2",
+    "examName": "Bihar Police SI",
+    "year": "2022",
+    "answerStatus": "found",
+    "pageNumber": 2,
+    "questionNumber": 4,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "Which organ in human body filters blood?",
+    "options": {
+      "A": "Heart",
+      "B": "Kidney",
+      "C": "Liver",
+      "D": "Lungs"
+    },
+    "correctOption": "B",
+    "explanation": "Kidneys remove waste and filter blood.",
+    "type": "factual",
+    "sourcePages": "Page 3",
+    "examName": "SSC CGL",
+    "year": "2021",
+    "answerStatus": "found",
+    "pageNumber": 3,
+    "questionNumber": 5,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "What is the boiling point of water at standard pressure?",
+    "options": {
+      "A": "50 C",
+      "B": "100 C",
+      "C": "150 C",
+      "D": "200 C"
+    },
+    "correctOption": "B",
+    "explanation": "Water boils at 100 degrees Celsius.",
+    "type": "factual",
+    "sourcePages": "Page 3",
+    "examName": "U.P.P.C.S. Pre",
+    "year": "2018",
+    "answerStatus": "found",
+    "pageNumber": 3,
+    "questionNumber": 6,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": {
+      "A": "Dr. B.R. Ambedkar",
+      "B": "Mahatma Gandhi",
+      "C": "Jawaharlal Nehru",
+      "D": "Sardar Patel"
+    },
+    "correctOption": "A",
+    "explanation": "Dr. B.R. Ambedkar was the chairman of the drafting committee.",
+    "type": "factual",
+    "sourcePages": "Page 4",
+    "examName": "B.P.S.C.",
+    "year": "2019",
+    "answerStatus": "found",
+    "pageNumber": 4,
+    "questionNumber": 7,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "Which gas is essential for human respiration?",
+    "options": {
+      "A": "Carbon Dioxide",
+      "B": "Oxygen",
+      "C": "Nitrogen",
+      "D": "Hydrogen"
+    },
+    "correctOption": "B",
+    "explanation": "Oxygen is required for cellular respiration.",
+    "type": "factual",
+    "sourcePages": "Page 4",
+    "examName": "Bihar Police SI",
+    "year": "2023",
+    "answerStatus": "found",
+    "pageNumber": 4,
+    "questionNumber": 8,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Pacific Ocean",
+      "C": "Indian Ocean",
+      "D": "Arctic Ocean"
+    },
+    "correctOption": "B",
+    "explanation": "Pacific Ocean is the largest ocean.",
+    "type": "factual",
+    "sourcePages": "Page 5",
+    "examName": "U.P.P.C.S. Pre",
+    "year": "2022",
+    "answerStatus": "found",
+    "pageNumber": 5,
+    "questionNumber": 9,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "options": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Watt",
+      "D": "Ohm"
+    },
+    "correctOption": "B",
+    "explanation": "Ampere is the unit of electric current.",
+    "type": "factual",
+    "sourcePages": "Page 5",
+    "examName": "SSC CGL",
+    "year": "2022",
+    "answerStatus": "found",
+    "pageNumber": 5,
+    "questionNumber": 10,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "Which acid is present in lemon?",
+    "options": {
+      "A": "Acetic acid",
+      "B": "Citric acid",
+      "C": "Lactic acid",
+      "D": "Tartaric acid"
+    },
+    "correctOption": "B",
+    "explanation": "Lemons contain citric acid.",
+    "type": "factual",
+    "sourcePages": "Page 6",
+    "examName": "B.P.S.C.",
+    "year": "2023",
+    "answerStatus": "found",
+    "pageNumber": 6,
+    "questionNumber": 11,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": {
+      "A": "Gold",
+      "B": "Mercury",
+      "C": "Silver",
+      "D": "Copper"
+    },
+    "correctOption": "B",
+    "explanation": "Mercury is liquid at room temperature.",
+    "type": "factual",
+    "sourcePages": "Page 6",
+    "examName": "U.P.P.C.S. Pre",
+    "year": "2021",
+    "answerStatus": "found",
+    "pageNumber": 6,
+    "questionNumber": 12,
+    "explanationLinked": false,
+    "parsedBy": "rules",
+    "needs_review": false
+  }
+]

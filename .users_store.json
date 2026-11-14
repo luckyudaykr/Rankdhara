@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "usr_3908e38d41fd",
+    "email": "kuday6631@gmail.com",
+    "displayName": "Admin User",
+    "role": "admin",
+    "isAdmin": true,
+    "lastLoginAt": "2026-10-28T11:46:12.887Z"
+  },
+  {
+    "uid": "usr_11536b4f9cc4",
+    "email": "student@testbook.com",
+    "displayName": "Student Candidate",
+    "role": "user",
+    "isAdmin": false,
+    "lastLoginAt": "2026-10-28T13:07:44.602Z"
+  },
+  {
+    "uid": "FYtPteRYb6PEXdDZXriiBuWgbWB3",
+    "email": "jiguday@gmail.com",
+    "displayName": "jiguday",
+    "role": "user",
+    "isAdmin": false,
+    "lastLoginAt": "2026-10-31T17:14:56.933Z"
+  },
+  {
+    "uid": "admin_dev_uid",
+    "email": "kuday6631@gmail.com",
+    "displayName": "Admin User",
+    "role": "admin",
+    "isAdmin": true,
+    "lastLoginAt": "2026-11-13T03:13:08.849Z"
+  }
+]

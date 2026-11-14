@@ -1,0 +1,6 @@
+{
+  "name": "PDF to MCQ Test",
+  "description": "Turn any uploaded PDF into a Testbook-style mock test of 10 MCQs with timer, interactive palette, negative marking, and comprehensive answer explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,2313 @@
+[
+  {
+    "id": "test_gs7_2_102q_p1",
+    "title": "General Science - Physics: Units & Measurements (Part 1)",
+    "createdAt": "2026-10-30T18:20:48.825Z",
+    "status": "published",
+    "authorEmail": "kuday6631@gmail.com",
+    "language": "English",
+    "difficulty": "Medium",
+    "durationMinutes": 41,
+    "markingCorrect": 1,
+    "markingWrong": 0.25,
+    "questionCount": 51,
+    "sourcePageCount": 20,
+    "examName": "GS7 General Science",
+    "year": "2023",
+    "sourcePdfId": "pdf_18c590df9c61",
+    "questions": [
+      {
+        "question": "In the following which is fundamental physical\nquantity?",
+        "options": {
+          "A": "Force",
+          "B": "Velocity",
+          "C": "Electric current",
+          "D": "Work"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 3",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The unit of power is –",
+        "options": {
+          "A": "Hertz",
+          "B": "Volts",
+          "C": "Watt",
+          "D": "Neutron U.P.P.S.C. (GIC) 2010"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "U.P.P.S.C. GIC",
+        "year": "2010",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The unit of electric power is :",
+        "options": {
+          "A": "Ampere",
+          "B": "Volt",
+          "C": "Coulomb",
+          "D": "Watt"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The unit of the force is –",
+        "options": {
+          "A": "Faraday",
+          "B": "Fermi",
+          "C": "Newton",
+          "D": "Rutherford M.P.P.C.S. (Pre) 1990"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "1990",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The unit of work is :",
+        "options": {
+          "A": "Joule",
+          "B": "Neutron",
+          "C": "Watt",
+          "D": "Dyne U.P.P.C.S. (Pre) 1996"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "1996",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Frequency is measured in",
+        "options": {
+          "A": "hertz",
+          "B": "metre/second",
+          "C": "radian",
+          "D": "watt"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What is measured in hertz?",
+        "options": {
+          "A": "Frequency",
+          "B": "Energy",
+          "C": "Heat",
+          "D": "Quality"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The SI unit of electrical resistivity of conductor is –",
+        "options": {
+          "A": "Faraday",
+          "B": "Volts",
+          "C": "Ampere",
+          "D": "Ohm M.P.P.C.S. (Pre) 1993"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "1993",
+        "answerStatus": "found"
+      },
+      {
+        "question": "‘Ohm-meter’ is unit of :",
+        "options": {
+          "A": "Resistance",
+          "B": "Conductance",
+          "C": "Resistivity",
+          "D": "Charge"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.\nGeneral Science\n#FROOHFWRUBVDKLEDD",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Light-year is the unit of –",
+        "options": {
+          "A": "Distance",
+          "B": "Time",
+          "C": "Speed of light",
+          "D": "Intensity of light U.P. U.D.A./L.D.A. (Pre) 2013 R.A.S./R.T.S. (Pre) 1997 M.P.P.C.S. (Pre) 2008"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "U.P. U.D.A./L.D.A. Pre",
+        "year": "2013",
+        "answerStatus": "found"
+      },
+      {
+        "question": "A light-year is the –",
+        "options": {
+          "A": "Year which had maximum sunlight",
+          "B": "Year in which workload was very light",
+          "C": "Distance travelled by light in one year",
+          "D": "Mean distance between Sun and Earth U.P. Lower Sub. (Mains) 2013"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "U.P. Lower Sub. Mains",
+        "year": "2013",
+        "answerStatus": "found"
+      },
+      {
+        "question": "'Light-year' is a unit of :",
+        "options": {
+          "A": "Time",
+          "B": "Distance",
+          "C": "Speed",
+          "D": "Force"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "‘Light-Year’ is –",
+        "options": {
+          "A": "The year in which February has 29 days",
+          "B": "The distance travelled by light in one year",
+          "C": "The time which sun rays take to reach the earth",
+          "D": "The time in which a spacecraft reaches moon from the earth U.P. U.D.A./L.D.A. (Pre) 2010"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "U.P. U.D.A./L.D.A. Pre",
+        "year": "2010",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following is a reason why astronomical\ndistances are measured in light-years?",
+        "options": {
+          "A": "Distances among stellar bodies do not change",
+          "B": "Gravity of stellar bodies does not change",
+          "C": "Light always travels in straight line",
+          "D": "Speed of light is always same I.A.S. (Pre) 2021"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "I.A.S. Pre",
+        "year": "2021",
+        "answerStatus": "found"
+      },
+      {
+        "question": "A parsec, a unit of distance used to measure the distance\nrelated to the stars in the sky, is equal to –",
+        "options": {
+          "A": "4.25 light-years",
+          "B": "3.25 light-years",
+          "C": "4.50 light-years",
+          "D": "3.05 light-years R.A.S./R.T.S. (Pre) 1999"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "R.A.S./R.T.S. Pre",
+        "year": "1999",
+        "answerStatus": "found"
+      },
+      {
+        "question": "PARSEC is the unit of :",
+        "options": {
+          "A": "Distance",
+          "B": "Time",
+          "C": "Light intensity",
+          "D": "Magnetic force U.P.P.C.S. (Pre) 1997"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "1997",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which unit of measurement is multiplied by 0.39 to\nconvert it to ‘inches’ ?",
+        "options": {
+          "A": "Millimetre",
+          "B": "Centimetre",
+          "C": "Metre",
+          "D": "Decimetre U.P. U.D.A./L.D.A. (Pre) 2010"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "U.P. U.D.A./L.D.A. Pre",
+        "year": "2010",
+        "answerStatus": "found"
+      },
+      {
+        "question": "How can the height of a person who is six feet tall, be\nexpressed (approximately) in nanometre?",
+        "options": {
+          "A": "183 × 10 6 nm",
+          "B": "234 ×10 6 nm",
+          "C": "183 × 10 7 nm",
+          "D": "181 × 10 7 nm I.A.S. (Pre) 2008"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "I.A.S. Pre",
+        "year": "2008",
+        "answerStatus": "found"
+      },
+      {
+        "question": "A nanometre is equal to –",
+        "options": {
+          "A": "10 -6 cm",
+          "B": "10 -7 cm",
+          "C": "10 -8 cm",
+          "D": "10 -9 cm U.P. U.D.A./L.D.A. (Pre) 2013"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "U.P. U.D.A./L.D.A. Pre",
+        "year": "2013",
+        "answerStatus": "found"
+      },
+      {
+        "question": "One N anometer is equal to",
+        "options": {
+          "A": "10 –9 m",
+          "B": "10 –6 m",
+          "C": "10 –10 m",
+          "D": "10 –3 m Uttarakhand P.C.S. (Pre) 2016"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "Uttarakhand P.C.S. Pre",
+        "year": "2016",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Ampere is the unit of –",
+        "options": {
+          "A": "Voltage",
+          "B": "Electric current",
+          "C": "Resistance",
+          "D": "Power Chhattisgarh P.C.S. (Pre) 2005"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "Chhattisgarh P.C.S. Pre",
+        "year": "2005",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Megawatt is the measuring unit of power which is –",
+        "options": {
+          "A": "Generated",
+          "B": "Consumed",
+          "C": "Saved",
+          "D": "Lost in transmission U.P. Lower Sub. (Pre) 1998"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "U.P. Lower Sub. Pre",
+        "year": "1998",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Match List-I with List-II and select the correct answer\nfrom the code given below :\nList-I List-II\n(Physical quantities) (Units)",
+        "options": {
+          "A": "Acceleration 1. Joule",
+          "B": "Force 2. N ewton second",
+          "C": "Work done 3. N ewton",
+          "D": "Impulse 4. Metre/second 2 Code : A B C D (a) 1 2 3 4 (b) 3 4 1 2 (c) 2 3 4 1 (d) 4 3 1 2 U.P.P.C.S. (Pre) 2005 U.P. U.D.A./L.D.A. (Pre) 2001"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2005",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following SI unit is not correctly\nmatched?",
+        "options": {
+          "A": "Work – Joule",
+          "B": "Force – Newton",
+          "C": "Mass – kg.",
+          "D": "Pressure – Dyne U.P. Lower Sub. (Pre) 2013"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "U.P. Lower Sub. Pre",
+        "year": "2013",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Match List-I with List-II and select the correct answer\nusing codes given below :\nList-I List-II\n(Units) (Parametric quantities)",
+        "options": {
+          "A": "Watt 1. Heat",
+          "B": "Knot 2. N avigation",
+          "C": "N autical mile 3. Speed of a ship",
+          "D": "Calorie 4. Power Code : A B C D (a) 3 1 4 2 (b) 1 2 3 4 (c) 4 3 2 1 (d) 2 4 1 3 U.P. U.D.A./L.D.A. (Pre) 2002"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "U.P. U.D.A./L.D.A. Pre",
+        "year": "2002",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Match the following :",
+        "options": {
+          "A": "Joule 1. Current",
+          "B": "Ampere 2. Power",
+          "C": "Watt 3. Work",
+          "D": "Volt 4. Electric potential Code : A B C D (a) 3 1 2 4 (b) 1 2 3 4 (c) 4 3 2 1 (d) 1 3 2 4 U.P.P.C.S. (Pre) 1990"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "1990",
+        "answerStatus": "found"
+      },
+      {
+        "question": "How many watts are there in a horsepower?",
+        "options": {
+          "A": "1000",
+          "B": "750",
+          "C": "746",
+          "D": "748 M.P.P.C.S. (Pre) 1991"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 7",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "1991",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following is not correctly matched ?",
+        "options": {
+          "A": "Knot - Measure of speed of ship",
+          "B": "Nautical mile - Unit of distance used in navigation",
+          "C": "Angstrom - Unit of wavelength of light",
+          "D": "Light year - Unit of measuring time U.P.P.C.S. (Mains) 2010"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 7",
+        "examName": "U.P.P.C.S. Mains",
+        "year": "2010",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Angstrom is a unit of",
+        "options": {
+          "A": "wavelength",
+          "B": "energy",
+          "C": "frequency",
+          "D": "velocity"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 7",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Match List-I (Quantity) with List-II (Units) and select\nthe correct answer using the codes given below the lists:\nList I List II",
+        "options": {
+          "A": "High speed 1. Mach",
+          "B": "Wavelength 2. Angstrom",
+          "C": "Pressure 3. Pascal",
+          "D": "Energy 4. Joule Code : A B C D (a) 2 1 3 4 (b) 1 2 4 3 General Science General Studies (c) 1 2 3 4 (d) 2 1 4 3 U.P.P.C.S. (Pre) 2006 I.A.S. (Pre) 1999"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 7",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2006",
+        "answerStatus": "found"
+      },
+      {
+        "question": "'Joule' is related to energy in the same way as 'Pascal'\nis related to :",
+        "options": {
+          "A": "Mass",
+          "B": "Pressure",
+          "C": "Density",
+          "D": "Purity"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 7",
+        "examName": "Chhattisgarh P.C.S. Pre",
+        "year": "2015",
+        "answerStatus": "found"
+      },
+      {
+        "question": "One micron is equal to –",
+        "options": {
+          "A": "1/10 mm",
+          "B": "1/100 mm",
+          "C": "1/1000 mm",
+          "D": "1/10,000 mm 39 th B.P.S.C. (Pre) 1994"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 7",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "One micron represents a length of –",
+        "options": {
+          "A": "10 -6 cm",
+          "B": "10 -4 cm",
+          "C": "1 mm",
+          "D": "1 m U.P.P.C.S. (Mains) 2011"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 7",
+        "examName": "U.P.P.C.S. Mains",
+        "year": "2011",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following is not the unit of heat?",
+        "options": {
+          "A": "Calorie",
+          "B": "Kilocalorie",
+          "C": "Kilojoule",
+          "D": "Watt M.P. P.C.S. (Pre) 2016"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 8",
+        "examName": "d Watt\nM.P. P.C.S. Pre",
+        "year": "2016",
+        "answerStatus": "found"
+      },
+      {
+        "question": "A distance of 1 km. means –",
+        "options": {
+          "A": "100 m.",
+          "B": "1000 cm.",
+          "C": "1000 m.",
+          "D": "100 cm. 45 th B.P.S.C. (Pre) 2001"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 8",
+        "examName": "c) 1000 m. (d",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "One pikogram is equal to –",
+        "options": {
+          "A": "10 –6 gram",
+          "B": "10 –9 gram",
+          "C": "10 –12 gram",
+          "D": "10 –15 gram 42 nd B.P.S.C. (Pre) 1997"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 8",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Pascal is a unit of measuring :",
+        "options": {
+          "A": "Humidity",
+          "B": "Pressure",
+          "C": "Rainfall",
+          "D": "Temperature Uttarakhand P.C.S. (Pre) 2002"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 8",
+        "examName": "Uttarakhand P.C.S. Pre",
+        "year": "2002",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What is the unit of pressure?",
+        "options": {
+          "A": "Newton / sq. metre",
+          "B": "Newton-metre",
+          "C": "Newton",
+          "D": "Newton/metre"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 8",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The unit of pressure is",
+        "options": {
+          "A": "kg/cm 2",
+          "B": "kg/cm",
+          "C": "kg/mm",
+          "D": "kg/cm 3"
+        },
+        "correctOption": "E",
+        "correctIndex": -1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 8",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What is the unit of atmospheric pressure?",
+        "options": {
+          "A": "Bar",
+          "B": "Knot",
+          "C": "Joule",
+          "D": "Ohm Chhattisgarh P.C.S. (Pre) 2008"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 8",
+        "examName": "Chhattisgarh P.C.S. Pre",
+        "year": "2008",
+        "answerStatus": "found"
+      },
+      {
+        "question": "1 kg/cm 2  pressure is equivalent to :",
+        "options": {
+          "A": "0.1 bar",
+          "B": "1.0 bar",
+          "C": "10.0 bar",
+          "D": "100.0 bar Uttarakhand P.C.S. (Pre) 2002"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 8",
+        "examName": "Uttarakhand P.C.S. Pre",
+        "year": "2002",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following quantities does not have unit?",
+        "options": {
+          "A": "Stress",
+          "B": "Force",
+          "C": "Strain",
+          "D": "Pressure"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 9",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "1 barrel of oil is equals to which of the following?",
+        "options": {
+          "A": "131 litre",
+          "B": "159 litre",
+          "C": "179 litre",
+          "D": "201 litre U.P.P.C.S. (Pre) 2009"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 9",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2009",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The smallest unit of length is –",
+        "options": {
+          "A": "Micron",
+          "B": "Nanometre",
+          "C": "Angstrom",
+          "D": "Fermimetre U.P.P.C.S. (Pre) 2005"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 9",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2005",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Match List-I with List-II and select the correct answer\nusing the codes given below the lists.\nList - I List - II",
+        "options": {
+          "A": "Cusec 1. Pressure",
+          "B": "Byte 2. Intensity of Earthquake General Science General Studies",
+          "C": "Richter 3. Rate of flow",
+          "D": "Bar 4. Computer Code : A B C D (a) 1 2 3 4 (b) 3 4 2 1 (c) 4 3 2 1 (d) 3 4 1 2 U.P. Lower Sub. (Spl.) (Pre) 2008"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 9",
+        "examName": "U.P. Lower Sub. Spl. Pre",
+        "year": "2008",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What is measured in cusec ?",
+        "options": {
+          "A": "Purity of water",
+          "B": "Depth of water",
+          "C": "Flow of water",
+          "D": "Quantity of water Uttarakhand P.C.S. (Pre) 2006"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 9",
+        "examName": "Uttarakhand P.C.S. Pre",
+        "year": "2006",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following is the unit of measure of\nthe thickness of the ozone layer of the atmosphere ?",
+        "options": {
+          "A": "Knot",
+          "B": "Dobson",
+          "C": "Poise",
+          "D": "Maxwell Uttarakhand P.C.S. (Pre) 2010"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 9",
+        "examName": "Uttarakhand P.C.S. Pre",
+        "year": "2010",
+        "answerStatus": "found"
+      },
+      {
+        "question": "'Dobson' Unit is used for the measurement of –",
+        "options": {
+          "A": "Thickness of Earth",
+          "B": "Thickness of Diamond",
+          "C": "Thickness of Ozone layer",
+          "D": "Measurement of Noise Uttarakhand P.C.S. (Pre) 2005"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.\nG–17\n#FROOHFWRUBVDKLEDD",
+        "type": "factual",
+        "sourcePages": "Page 9",
+        "examName": "Uttarakhand P.C.S. Pre",
+        "year": "2005",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following instrument is used for\nlocating submerged objects in an ocean ?",
+        "options": {
+          "A": "Audiometer",
+          "B": "Galvanometer",
+          "C": "Sextant",
+          "D": "SONAR U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016 U.P.P.C.S. (Pre) 2000"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "Sound Navigation and Ranging",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "SO N AR is mostly used by–",
+        "options": {
+          "A": "Astronauts",
+          "B": "Doctors",
+          "C": "Engineers",
+          "D": "Navigators Chhattisgarh P.C.S. (Pre) 2011"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "Chhattisgarh P.C.S. Pre",
+        "year": "2011",
+        "answerStatus": "found"
+      },
+      {
+        "question": "In SO N AR, we use –",
+        "options": {
+          "A": "Radio waves",
+          "B": "Audible sound waves",
+          "C": "Ultrasonic waves",
+          "D": "Infrasonic waves U.P.P.C.S. (Mains) 2013"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "U.P.P.C.S. Mains",
+        "year": "2013",
+        "answerStatus": "found"
+      }
+    ]
+  },
+  {
+    "id": "test_gs7_2_102q_p2",
+    "title": "General Science - Physics: Motion & Mechanics (Part 2)",
+    "createdAt": "2026-10-30T18:20:48.825Z",
+    "status": "published",
+    "authorEmail": "kuday6631@gmail.com",
+    "language": "English",
+    "difficulty": "Medium",
+    "durationMinutes": 41,
+    "markingCorrect": 1,
+    "markingWrong": 0.25,
+    "questionCount": 51,
+    "sourcePageCount": 20,
+    "examName": "GS7 General Science",
+    "year": "2023",
+    "sourcePdfId": "pdf_18c590df9c61",
+    "questions": [
+      {
+        "question": "The apparatus used to measure intensity of sound is :",
+        "options": {
+          "A": "Chronometer",
+          "B": "Anemometer",
+          "C": "Audiophone",
+          "D": "Audiometer M.P.P.C.S. (Pre) 1990"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "1990",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which of the following is measured by 'Anemometer' ?",
+        "options": {
+          "A": "Velocity of water-flow",
+          "B": "Depth of water",
+          "C": "Force of the wind",
+          "D": "Intensity of light M.P.P.C.S. (Pre) 2012"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.\nG–20 General Studies\n#FROOHFWRUBVDKLEDD",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "2012",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The velocity of wind is measured by :",
+        "options": {
+          "A": "Barometer",
+          "B": "Anemometer",
+          "C": "Hydrometer",
+          "D": "Wind vane U.P.P.C.S. (Pre) 2016"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2016",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following is not correctly matched –",
+        "options": {
+          "A": "Anemometer – Wind speed",
+          "B": "Ammeter – Electric current",
+          "C": "Tacheometer – Pressure difference",
+          "D": "Pyrometer – High temperature U.P.P.C.S. (Pre) 1997"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "1997",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The device to measure electric current is –",
+        "options": {
+          "A": "Voltmeter",
+          "B": "Ammeter",
+          "C": "Voltameter",
+          "D": "Potentiometer"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Pyrometer is used to measure –",
+        "options": {
+          "A": "Air pressure",
+          "B": "Humidity",
+          "C": "High temperature",
+          "D": "Density Chhattisgarh P.C.S. (Pre) 2011 U.P.P.C.S. (Mains) 2008 Uttarakhand P.C.S. (Pre) 2006 U.P.P.C.S. (Spl.) (Mains) 2004 U.P.P.C.S. (Pre) 1998"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 12",
+        "examName": "Chhattisgarh P.C.S. Pre",
+        "year": "2011",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following devices is used to measure\nextremely high temperature?",
+        "options": {
+          "A": "Pyrometer",
+          "B": "Photometer",
+          "C": "Phonometer",
+          "D": "Pycnometer U.P. P.C.S. (Mains) 2016"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "U.P. P.C.S. Mains",
+        "year": "2016",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following thermometers is known as\npyrometer?",
+        "options": {
+          "A": "Thermo-electric thermometers",
+          "B": "Radiation thermometers",
+          "C": "Gas thermometers",
+          "D": "Liquid thermometers U.P. P.C.S. (Pre) 2016"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "U.P. P.C.S. Pre",
+        "year": "2016",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The thermometer which used to measure 2000 o C\ntemperature is –",
+        "options": {
+          "A": "Gas thermometer",
+          "B": "Mercury thermometer",
+          "C": "Total radiation pyrometer",
+          "D": "Steam pressure thermometer U.P.P.C.S. (Pre) 2009"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2009",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following can be used to measure\ntemperature above 1500 o C ?",
+        "options": {
+          "A": "Clinical thermometer",
+          "B": "Thermoelectric couple thermometer",
+          "C": "Platinum resistance thermometer",
+          "D": "Pyrometer U.P. Lower Sub. (Pre) 2013 U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "U.P. Lower Sub. Pre",
+        "year": "2013",
+        "answerStatus": "found"
+      },
+      {
+        "question": "'Pyrheliometer' is used for measuring :",
+        "options": {
+          "A": "Sun spots",
+          "B": "Solar radiation",
+          "C": "Air temperature",
+          "D": "Temperature of plants U.P.P.C.S. (Pre) (Re. Exam) 2015"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "U.P.P.C.S. Pre Re. Exam",
+        "year": "2015",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What is measured by manometer?",
+        "options": {
+          "A": "Air pressure",
+          "B": "Pressure of gas",
+          "C": "Density of liquids",
+          "D": "Pressure of oil on the surface U.P.P.C.S. (Pre) 1990"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "1990",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Match List-I with List-II and select the correct answer\nusing the codes given below:\nList - I List - II\n(Instrument) (Measuring quantity)",
+        "options": {
+          "A": "Ammeter 1. Pressure",
+          "B": "Hygrometer 2. Weight",
+          "C": "Spring balance 3. Electric current",
+          "D": "Barometer 4. Relative humidity Code : A B C D (a) 2 3 4 1 (b) 3 4 2 1 (c) 4 1 2 3 (d) 1 2 3 4 U.P.U.D.A./L.D.A (Pre) 2001"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "U.P.U.D.A./L.D.A Pre",
+        "year": "2001",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following pair is not correctly\nmatched?",
+        "options": {
+          "A": "Odometer : Measuring instrument for distance covered by motor wheels",
+          "B": "Ondometer : Measuring instrument for frequency of electromagnetic waves",
+          "C": "Audiometer : Device for measuring sound intensity",
+          "D": "Ammeter : Measuring instrument for electric power U.P. Lower Sub. (Pre) 2015"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "U.P. Lower Sub. Pre",
+        "year": "2015",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The device to measure electric current is",
+        "options": {
+          "A": "Voltmeter",
+          "B": "Ammeter",
+          "C": "Volta meter",
+          "D": "Potentiometer"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 13",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which instrument is used to measure atmospheric\npressure?",
+        "options": {
+          "A": "Hydrometer",
+          "B": "Barometer",
+          "C": "Manometer",
+          "D": "Hygrometer U.P.P.S.C. (GIC) 2010 M.P.P.C.S. (Pre) 2000"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "U.P.P.S.C. GIC",
+        "year": "2010",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The liquid/liquids used in the simple barometer is /\nare :",
+        "options": {
+          "A": "Water",
+          "B": "Mercury",
+          "C": "Alcohol",
+          "D": "All of the above M.P.P.C.S. (Pre) 2016"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "2016",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The density of milk can be obtained by the use of :",
+        "options": {
+          "A": "Hydrometer",
+          "B": "Butyrometer",
+          "C": "Lactometer",
+          "D": "Thermometer M.P.P.C.S. (Pre) 2006"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "2006",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The density of milk is measured by?",
+        "options": {
+          "A": "Lactometer",
+          "B": "Hydrometer",
+          "C": "Barometer",
+          "D": "Hygrometer M.P.P.C.S. (Pre) 2015"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.\nG–22 General Studies\n#FROOHFWRUBVDKLEDD",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "2015",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Relative humidity is measured by :",
+        "options": {
+          "A": "Hydrometer",
+          "B": "Hygrometer",
+          "C": "Lactometer",
+          "D": "Potentiometer U.P.P.C.S. (Pre) 1996 U.P.P.C.S. (Pre) 1995"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "1996",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which instrument is used for measuring humidity in\nthe air?",
+        "options": {
+          "A": "Hydrometer",
+          "B": "Hygrometer",
+          "C": "Spectrometer",
+          "D": "Eudiometer Chhattisgarh P.C.S. (Pre) 2008"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "Chhattisgarh P.C.S. Pre",
+        "year": "2008",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which instrument is used for the measurement of\nhumidity in the air ?",
+        "options": {
+          "A": "Hygrometer",
+          "B": "Hydrometer",
+          "C": "Manometer",
+          "D": "Odometer U.P.P.S.C. (R.I.) 2014"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "U.P.P.S.C. R.I.",
+        "year": "2014",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Hygrometer is used to measure –",
+        "options": {
+          "A": "Humidity in atmosphere",
+          "B": "Atmospheric pressure",
+          "C": "High temperature",
+          "D": "Velocity of wind Uttarakhand Lower Sub. (Pre) 2010"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "Uttarakhand Lower Sub. Pre",
+        "year": "2010",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which instrument is used to measure humidity?",
+        "options": {
+          "A": "Hydrometer",
+          "B": "Hygrometer",
+          "C": "Pyrometer",
+          "D": "Lactometer"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 14",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which of the following device quantify the humidity\nin Air?",
+        "options": {
+          "A": "Thermostat",
+          "B": "Pyrometer",
+          "C": "Hypsometer",
+          "D": "Hygrometer R.A.S./R.T.S. (Pre) 1996"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 15",
+        "examName": "R.A.S./R.T.S. Pre",
+        "year": "1996",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which of the following is correctly matched?",
+        "options": {
+          "A": "Thermoresistor - Electronic Thermometer",
+          "B": "Capacitor - Thermometer",
+          "C": "Bipolar Junction - Rectifier Transistor",
+          "D": "Junction Diode - Amplifier U.P. R.O./A.R.O. (Pre) 2016"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 15",
+        "examName": "U.P. R.O./A.R.O. Pre",
+        "year": "2016",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Electroencephalogram (EEG) is used in monitoring",
+        "options": {
+          "A": "Heart",
+          "B": "Liver",
+          "C": "Pancreas",
+          "D": "Brain"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 15",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Match List-I with List-II and select the correct answer\nfrom the codes given below the lists :\nList-I List-II",
+        "options": {
+          "A": "Stethoscope 1. To measure intensity of light",
+          "B": "Sphygmomanometer 2. To check purity of gold",
+          "C": "Caratometer 3. To hear heart sound",
+          "D": "Luxmeter 4. To measure blood pressure General Science General Studies Code : A B C D (a) 1 2 3 4 (b) 4 3 2 1 (c) 3 4 2 1 (d) 2 1 4 3 U.P.P.C.S. (Pre) 2008"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 15",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2008",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The name of the equipment used for measuring blood\npressure is :",
+        "options": {
+          "A": "Tacheometer",
+          "B": "Sphygmomanometer",
+          "C": "Actiometer",
+          "D": "Barometer U.P.P.C.S. (Pre) 2007"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 15",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2007",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The apparatus used to measure the intensity of light\nis known as –",
+        "options": {
+          "A": "Anemometer",
+          "B": "Colorimeter",
+          "C": "Luxmeter",
+          "D": "Altimeter U.P.P.C.S. (Spl) (Mains) 2004"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 15",
+        "examName": "U.P.P.C.S. Spl Mains",
+        "year": "2004",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Radar is used for :",
+        "options": {
+          "A": "Detecting objects by using light waves",
+          "B": "Reflecting sound waves to detect objects",
+          "C": "Determining the presence and location of objects with radio waves",
+          "D": "Tracking rain-bearing clouds U.P.P.C.S. (Pre) 2008 U.P.P.C.S. (Pre) 1996 U.P.U.D.A./L.D.A. (Pre) 2001 U.P. Lower Sub. (Pre) 2004"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 15",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2008",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which of the following quantities is measured on the\nRichter scale?",
+        "options": {
+          "A": "Speed of a glacier",
+          "B": "Population growth",
+          "C": "Intensity of an earthquake",
+          "D": "Temperature inside the earth R.A.S./R.T.S.(Pre) 2003"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "R.A.S./R.T.S.Pre",
+        "year": "2003",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The intensity of earthquakes is measured :",
+        "options": {
+          "A": "On the Richter scale",
+          "B": "On the Kelvin scale",
+          "C": "In decibel",
+          "D": "In Pascal U.P. Lower Sub. (Pre) 2015 U.P. Lower Sub. (Pre) 2004"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "U.P. Lower Sub. Pre",
+        "year": "2015",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Richter scale is used for measuring –",
+        "options": {
+          "A": "Velocity of sound",
+          "B": "Intensity of light",
+          "C": "Amplitude of seismic waves",
+          "D": "Intensity of sound U.P.P.C.S. (Spl) (Mains) 2008"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "U.P.P.C.S. Spl Mains",
+        "year": "2008",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one is not correctly matched ?",
+        "options": {
+          "A": "Celsius - Temperature",
+          "B": "Kilowatt hour - Electricity",
+          "C": "Rh factor - Blood",
+          "D": "Richter scale - Humidity Uttarakhand P.C.S. (Pre) 2002"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "Uttarakhand P.C.S. Pre",
+        "year": "2002",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which of the following is a seismometer device?",
+        "options": {
+          "A": "Crescograph",
+          "B": "Seismograph",
+          "C": "Geiger Counter",
+          "D": "Raingauge U.P.P.C.S. (Pre) 1990"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "1990",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which of the following instruments is used to record\nseismic waves?",
+        "options": {
+          "A": "Seismogram",
+          "B": "Seismograph",
+          "C": "Seismoscope",
+          "D": "Seismometer U.P. P.C.S. (Mains) 2017"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "U.P. P.C.S. Mains",
+        "year": "2017",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The intensity of earthquake is measured by?",
+        "options": {
+          "A": "Barometer",
+          "B": "Hydrometer",
+          "C": "Polygraph",
+          "D": "Seismograph M.P.P.C.S. (Pre) 2015"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "2015",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following devices is used to measure\nthe intensity of earthquake?",
+        "options": {
+          "A": "Seismograph",
+          "B": "Stethoscope",
+          "C": "Cosmograph",
+          "D": "Periscope U.P.P.C.S. (Mains) 2014"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "U.P.P.C.S. Mains",
+        "year": "2014",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What does a 'seismograph' record ?",
+        "options": {
+          "A": "Heart-beats",
+          "B": "Atmospheric pressure",
+          "C": "Earthquake",
+          "D": "None of these M.P.P.C.S. (Pre) 1995"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 16",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "1995",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Match the correct :",
+        "options": {
+          "A": "Fathometer 1. Atmospheric pressure",
+          "B": "Barometer 2. Atmospheric humidity",
+          "C": "Hygrometer 3. Height",
+          "D": "Altimeter 4. Depth of sea Code : A B C D (a) 2 3 1 4 (b) 4 1 2 3 (c) 4 2 3 1 (d) 3 1 2 4 Chhattisgarh P.C.S. (Pre) 2003"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 17",
+        "examName": "Chhattisgarh P.C.S. Pre",
+        "year": "2003",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Fathometer is used to measure :",
+        "options": {
+          "A": "Earthquake",
+          "B": "Rain",
+          "C": "Depth of sea",
+          "D": "Sound intensity M.P.P.C.S. (Pre) 2015"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 17",
+        "examName": "M.P.P.C.S. Pre",
+        "year": "2015",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following is not correctly matched :",
+        "options": {
+          "A": "Manometer - Pressure",
+          "B": "Carburetor - Internal combustion engine General Science General Studies",
+          "C": "Cardiograph - Heart movement",
+          "D": "Seismometer - Curvature of surface U.P.P.C.S. (Pre) 1999 U.P.P.S.C. (GIC) 2010"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 17",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "1999",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Phonometer is used to measure which one of the\nfollowing?",
+        "options": {
+          "A": "The power of brightness of light",
+          "B": "Extremely high temperature",
+          "C": "Frequency of electromagnetic wave",
+          "D": "Atmospheric humidity U.P.P.C.S. (Mains) 2014"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 17",
+        "examName": "U.P.P.C.S. Mains",
+        "year": "2014",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The apparatus used for detecting lie is known as –",
+        "options": {
+          "A": "Polygraph",
+          "B": "Pyrometer",
+          "C": "Gyroscope",
+          "D": "Kymograph U.P. Lower Sub. (Pre) 2013"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 17",
+        "examName": "U.P. Lower Sub. Pre",
+        "year": "2013",
+        "answerStatus": "found"
+      },
+      {
+        "question": "The instrument, used for measuring angular distances\nin vertical plane (elevation) and the horizontal plane\n(azimuth), is :",
+        "options": {
+          "A": "Bevel protractor",
+          "B": "Altimeter",
+          "C": "Syncline",
+          "D": "Theodolite Chhattisgarh P.C.S. (Pre) 2020"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 17",
+        "examName": "Chhattisgarh P.C.S. Pre",
+        "year": "2020",
+        "answerStatus": "found"
+      },
+      {
+        "question": "A simple machine helps a person in doing :",
+        "options": {
+          "A": "Less work",
+          "B": "The same amount of work with lesser force",
+          "C": "The same amount of work slowly",
+          "D": "The same amount of work much faster I.A.S. (Pre) 1996"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 20",
+        "examName": "I.A.S. Pre",
+        "year": "1996",
+        "answerStatus": "found"
+      },
+      {
+        "question": "A man is standing on a sensitive balance. If he inhales\ndeeply, the reading of the balance –",
+        "options": {
+          "A": "Increases",
+          "B": "Decreases",
+          "C": "Remains unaffected",
+          "D": "May increase or decrease depending on the atmospheric pressure U.P.P.C.S. (Mains) 2013"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 20",
+        "examName": "U.P.P.C.S. Mains",
+        "year": "2013",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which of the following is not a vector quantity?",
+        "options": {
+          "A": "Displacement",
+          "B": "Velocity",
+          "C": "Force",
+          "D": "Volume 45 th B.P.S.C. (Pre) 2001"
+        },
+        "correctOption": "D",
+        "correctIndex": 3,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 20",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which of the following is a vector quantity ?",
+        "options": {
+          "A": "Time",
+          "B": "Speed",
+          "C": "Displacement",
+          "D": "Distance U.P.R.O./A.R.O. (Mains) 2014"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "of above question.",
+        "type": "factual",
+        "sourcePages": "Page 20",
+        "examName": "U.P.R.O./A.R.O. Mains",
+        "year": "2014",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which one of the following is a scalar quantity?",
+        "options": {
+          "A": "Force",
+          "B": "Pressure General Science",
+          "C": "Option C",
+          "D": "Option D"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Refer to the source question document.",
+        "type": "factual",
+        "sourcePages": "Page 20",
+        "examName": "GS7 Pre",
+        "year": "2023",
+        "answerStatus": "found"
+      }
+    ]
+  },
+  {
+    "id": "test_e52894715308",
+    "title": "U.P.P.C.S. Pre 2020 General Studies Practice Paper",
+    "createdAt": "2026-10-29T13:31:29.452Z",
+    "status": "published",
+    "authorEmail": "kuday6631@gmail.com",
+    "language": "English",
+    "difficulty": "Medium",
+    "durationMinutes": 12,
+    "markingCorrect": 1,
+    "markingWrong": 0.25,
+    "questionCount": 12,
+    "sourcePageCount": 1,
+    "examName": "U.P.P.C.S. Pre",
+    "year": "2020",
+    "sourcePdfId": "pdf_0179b0d9f9b9",
+    "questions": [
+      {
+        "question": "Which of the following is the capital of India?",
+        "options": {
+          "A": "Mumbai",
+          "B": "New Delhi",
+          "C": "Kolkata",
+          "D": "Chennai"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "New Delhi is the capital of India.",
+        "type": "factual",
+        "sourcePages": "Page 1",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2020",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+          "A": "Venus",
+          "B": "Mars",
+          "C": "Jupiter",
+          "D": "Saturn"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Mars is called the Red Planet due to iron oxide.",
+        "type": "factual",
+        "sourcePages": "Page 1",
+        "examName": "B.P.S.C.",
+        "year": "2021",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What is the chemical formula of water?",
+        "options": {
+          "A": "CO2",
+          "B": "H2O",
+          "C": "NaCl",
+          "D": "O2"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "H2O consists of hydrogen and oxygen.",
+        "type": "factual",
+        "sourcePages": "Page 2",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2019",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Who wrote the National Anthem of India?",
+        "options": {
+          "A": "Bankim Chandra Chattopadhyay",
+          "B": "Rabindranath Tagore",
+          "C": "Sarojini Naidu",
+          "D": "Mahatma Gandhi"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Jana Gana Mana was written by Rabindranath Tagore.",
+        "type": "factual",
+        "sourcePages": "Page 2",
+        "examName": "Bihar Police SI",
+        "year": "2022",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which organ in human body filters blood?",
+        "options": {
+          "A": "Heart",
+          "B": "Kidney",
+          "C": "Liver",
+          "D": "Lungs"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Kidneys remove waste and filter blood.",
+        "type": "factual",
+        "sourcePages": "Page 3",
+        "examName": "SSC CGL",
+        "year": "2021",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What is the boiling point of water at standard pressure?",
+        "options": {
+          "A": "50 C",
+          "B": "100 C",
+          "C": "150 C",
+          "D": "200 C"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Water boils at 100 degrees Celsius.",
+        "type": "factual",
+        "sourcePages": "Page 3",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2018",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Who is known as the Father of the Indian Constitution?",
+        "options": {
+          "A": "Dr. B.R. Ambedkar",
+          "B": "Mahatma Gandhi",
+          "C": "Jawaharlal Nehru",
+          "D": "Sardar Patel"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Dr. B.R. Ambedkar was the chairman of the drafting committee.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "B.P.S.C.",
+        "year": "2019",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which gas is essential for human respiration?",
+        "options": {
+          "A": "Carbon Dioxide",
+          "B": "Oxygen",
+          "C": "Nitrogen",
+          "D": "Hydrogen"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Oxygen is required for cellular respiration.",
+        "type": "factual",
+        "sourcePages": "Page 4",
+        "examName": "Bihar Police SI",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which is the largest ocean on Earth?",
+        "options": {
+          "A": "Atlantic Ocean",
+          "B": "Pacific Ocean",
+          "C": "Indian Ocean",
+          "D": "Arctic Ocean"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Pacific Ocean is the largest ocean.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2022",
+        "answerStatus": "found"
+      },
+      {
+        "question": "What is the SI unit of electric current?",
+        "options": {
+          "A": "Volt",
+          "B": "Ampere",
+          "C": "Watt",
+          "D": "Ohm"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Ampere is the unit of electric current.",
+        "type": "factual",
+        "sourcePages": "Page 5",
+        "examName": "SSC CGL",
+        "year": "2022",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which acid is present in lemon?",
+        "options": {
+          "A": "Acetic acid",
+          "B": "Citric acid",
+          "C": "Lactic acid",
+          "D": "Tartaric acid"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Lemons contain citric acid.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "B.P.S.C.",
+        "year": "2023",
+        "answerStatus": "found"
+      },
+      {
+        "question": "Which metal is liquid at room temperature?",
+        "options": {
+          "A": "Gold",
+          "B": "Mercury",
+          "C": "Silver",
+          "D": "Copper"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Mercury is liquid at room temperature.",
+        "type": "factual",
+        "sourcePages": "Page 6",
+        "examName": "U.P.P.C.S. Pre",
+        "year": "2021",
+        "answerStatus": "found"
+      }
+    ]
+  },
+  {
+    "id": "test_a02fbb3b24dd",
+    "title": "General Science: Physics & Space Technology",
+    "createdAt": "2026-10-28T11:48:34.385Z",
+    "status": "published",
+    "authorEmail": "kuday6631@gmail.com",
+    "language": "English",
+    "difficulty": "Easy",
+    "durationMinutes": 10,
+    "markingCorrect": 1,
+    "markingWrong": 0.25,
+    "questionCount": 10,
+    "sourcePageCount": 8,
+    "questions": [
+      {
+        "question": "What is the escape velocity from the surface of the Earth approximately?",
+        "options": {
+          "A": "9.8 km/s",
+          "B": "11.2 km/s",
+          "C": "7.9 km/s",
+          "D": "15.4 km/s"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "The escape velocity from the Earth is approximately 11.2 km/s (around 25,000 mph).",
+        "type": "factual",
+        "sourcePages": "Page 2"
+      },
+      {
+        "question": "Which electromagnetic radiation has the highest frequency in the electromagnetic spectrum?",
+        "options": {
+          "A": "Radio waves",
+          "B": "X-rays",
+          "C": "Gamma rays",
+          "D": "Ultraviolet rays"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Gamma rays have the shortest wavelength and highest frequency in the electromagnetic spectrum.",
+        "type": "factual",
+        "sourcePages": "Page 3"
+      },
+      {
+        "question": "Why do astronauts experience apparent weightlessness inside an orbiting International Space Station (ISS)?",
+        "options": {
+          "A": "There is zero gravity in low Earth orbit",
+          "B": "The ISS and astronauts are in continuous free fall towards Earth",
+          "C": "Atmospheric drag balances out gravitational attraction",
+          "D": "Centrifugal force completely neutralizes Earth mass"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Astronauts in orbit are in free-fall around Earth, giving the sensation of weightlessness even though gravity is ~90% of surface gravity.",
+        "type": "conceptual",
+        "sourcePages": "Page 4"
+      },
+      {
+        "question": "A convex lens with a focal length of 20 cm produces a real image of the same size as the object. Where should the object be placed?",
+        "options": {
+          "A": "At 20 cm",
+          "B": "At 40 cm",
+          "C": "At 10 cm",
+          "D": "At infinity"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "For a convex lens, a real image of the same size is formed when the object is placed at twice the focal length (2F = 40 cm).",
+        "type": "application",
+        "sourcePages": "Page 5"
+      },
+      {
+        "question": "Which satellite constellation powers India indigenous regional satellite navigation system NavIC?",
+        "options": {
+          "A": "GSAT Series",
+          "B": "IRNSS Series",
+          "C": "INSAT Series",
+          "D": "RISAT Series"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "NavIC is powered by the Indian Regional Navigation Satellite System (IRNSS) constellation.",
+        "type": "factual",
+        "sourcePages": "Page 6"
+      },
+      {
+        "question": "What phenomenon explains the blue color of the clear sky during daytime?",
+        "options": {
+          "A": "Total Internal Reflection",
+          "B": "Rayleigh Scattering",
+          "C": "Diffraction",
+          "D": "Polarization"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Rayleigh scattering scatters shorter wavelengths (blue/violet) much more strongly than longer wavelengths.",
+        "type": "conceptual",
+        "sourcePages": "Page 7"
+      },
+      {
+        "question": "If an electric kettle rated 1000 W operates for 30 minutes daily, what is the energy consumed in 30 days in commercial units (kWh)?",
+        "options": {
+          "A": "15 kWh",
+          "B": "30 kWh",
+          "C": "45 kWh",
+          "D": "60 kWh"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Daily energy = 1 kW * 0.5 h = 0.5 kWh. Over 30 days = 0.5 * 30 = 15 kWh (units).",
+        "type": "application",
+        "sourcePages": "Page 7"
+      },
+      {
+        "question": "Which of the following describes Bernoulli principle most accurately?",
+        "options": {
+          "A": "Viscosity increases with velocity in a moving fluid",
+          "B": "Fluid pressure decreases where fluid speed increases",
+          "C": "Mass cannot be created or destroyed in fluid dynamics",
+          "D": "Buoyancy is equal to fluid displaced"
+        },
+        "correctOption": "B",
+        "correctIndex": 1,
+        "explanation": "Bernoulli principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in static pressure.",
+        "type": "conceptual",
+        "sourcePages": "Page 8"
+      },
+      {
+        "question": "What propulsion fuel combination was used in the cryogenic upper stage of LVM3 (Chandrayaan-3)?",
+        "options": {
+          "A": "Liquid Oxygen and Liquid Hydrogen",
+          "B": "Hydrazine and Nitrogen Tetroxide",
+          "C": "Kerosene and Liquid Oxygen",
+          "D": "Solid HTPB Propellant"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "Cryogenic stages use Liquid Oxygen (LOX) at -183 C and Liquid Hydrogen (LH2) at -253 C.",
+        "type": "factual",
+        "sourcePages": "Page 8"
+      },
+      {
+        "question": "Calculate the kinetic energy of an artificial satellite of mass 2000 kg orbiting at a velocity of 7500 m/s.",
+        "options": {
+          "A": "56.25 GJ",
+          "B": "112.5 GJ",
+          "C": "28.12 GJ",
+          "D": "15.0 GJ"
+        },
+        "correctOption": "A",
+        "correctIndex": 0,
+        "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2000 * (7500)^2 = 1000 * 56,250,000 = 56.25 * 10^9 Joules = 56.25 GJ.",
+        "type": "application",
+        "sourcePages": "Page 8"
+      }
+    ],
+    "examName": "U.P.P.C.S. Pre, B.P.S.C.",
+    "year": "2021-2023"
+  },
+  {
+    "id": "test_604eff0e4c7b",
+    "title": "Indian Polity & Constitution Mock Test",
+    "createdAt": "2026-10-28T10:07:54.433Z",
+    "status": "published",
+    "authorEmail": "kuday6631@gmail.com",
+    "language": "English",
+    "difficulty": "Medium",
+    "durationMinutes": 10,
+    "markingCorrect": 1,
+    "markingWrong": 0.25,
+    "questionCount": 10,
+    "sourcePageCount": 15,
+    "questions": [
+      {
+        "question": "Sample Question 1 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "factual",
+        "sourcePages": "Section 1"
+      },
+      {
+        "question": "Sample Question 2 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "conceptual",
+        "sourcePages": "Section 2"
+      },
+      {
+        "question": "Sample Question 3 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "application",
+        "sourcePages": "Section 3"
+      },
+      {
+        "question": "Sample Question 4 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "factual",
+        "sourcePages": "Section 4"
+      },
+      {
+        "question": "Sample Question 5 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "conceptual",
+        "sourcePages": "Section 5"
+      },
+      {
+        "question": "Sample Question 6 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "application",
+        "sourcePages": "Section 6"
+      },
+      {
+        "question": "Sample Question 7 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "factual",
+        "sourcePages": "Section 7"
+      },
+      {
+        "question": "Sample Question 8 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "conceptual",
+        "sourcePages": "Section 8"
+      },
+      {
+        "question": "Sample Question 9 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "application",
+        "sourcePages": "Section 9"
+      },
+      {
+        "question": "Sample Question 10 regarding Fundamental Rights?",
+        "options": {
+          "A": "Article 14",
+          "B": "Article 19",
+          "C": "Article 21",
+          "D": "Article 32"
+        },
+        "correctOption": "C",
+        "correctIndex": 2,
+        "explanation": "Article 21 protects the right to life and personal liberty.",
+        "type": "factual",
+        "sourcePages": "Section 10"
+      }
+    ],
+    "examName": "U.P.P.C.S., M.P.P.C.S.",
+    "year": "2019-2022"
+  }
+]

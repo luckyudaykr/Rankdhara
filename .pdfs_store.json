@@ -1,0 +1,120 @@
+[
+  {
+    "id": "pdf_18c590df9c61",
+    "fileName": "GS7_2_first_20.pdf",
+    "sizeBytes": 12286683,
+    "pageCount": 20,
+    "uploadedBy": "kuday6631@gmail.com",
+    "uploadedAt": "2026-10-30T18:20:48.824Z",
+    "status": "extracted",
+    "storagePath": "local://pdf_18c590df9c61",
+    "pagesExtracted": 20,
+    "questionCount": 102,
+    "lastExtractedPage": 20,
+    "lastExtractionReport": {
+      "totalPages": 20,
+      "processedPages": 20,
+      "questionsExtracted": 102,
+      "quizzesCreated": 1,
+      "quizzesPublished": 1,
+      "completedAt": "2026-10-30T18:20:48.824Z"
+    }
+  },
+  {
+    "id": "pdf_0179b0d9f9b9",
+    "fileName": "sample_test_6pages.pdf",
+    "sizeBytes": 5624,
+    "pageCount": 6,
+    "uploadedBy": "kuday6631@gmail.com",
+    "uploadedAt": "2026-10-29T13:31:27.519Z",
+    "status": "extracted",
+    "storagePath": "local://pdf_0179b0d9f9b9",
+    "lastFinishedBatch": 0,
+    "totalBatches": 2,
+    "currentProgressMsg": "All pages extracted",
+    "pagesExtracted": 6,
+    "questionCount": 12,
+    "lastExtractedPage": 6,
+    "possibleMissingQuestions": [],
+    "unresolvedPages": [],
+    "lastExtractionReport": {
+      "totalPages": 6,
+      "processedPages": 6,
+      "failedPages": [],
+      "notesPagesSkipped": 0,
+      "questionsExtracted": 12,
+      "questionsParsedByRules": 12,
+      "questionsParsedByGemini": 0,
+      "geminiCallsUsed": 0,
+      "linkedExplanationsCount": 0,
+      "endAnswerKeyMatchesCount": 0,
+      "questionsSkipped": [],
+      "questionsWithMissingAnswers": 0,
+      "questionsWithMissingMetadata": 0,
+      "quizzesCreated": 1,
+      "quizzesPublished": 0,
+      "quizzesNeedingReview": 0,
+      "possibleMissingQuestions": [],
+      "mismatches": [],
+      "unresolvedPages": [],
+      "quizSummaries": [
+        {
+          "id": "test_e52894715308",
+          "title": "U.P.P.C.S. Pre 2020 sample_test_6pages",
+          "questionCount": 12,
+          "status": "draft",
+          "isClean": false
+        }
+      ],
+      "completedAt": "2026-10-29T13:31:29.453Z"
+    }
+  },
+  {
+    "id": "pdf_e5981423d0fc",
+    "fileName": "sample_test_6pages.pdf",
+    "sizeBytes": 5624,
+    "pageCount": 6,
+    "uploadedBy": "kuday6631@gmail.com",
+    "uploadedAt": "2026-10-29T13:30:38.869Z",
+    "status": "uploaded",
+    "storagePath": "local://pdf_e5981423d0fc",
+    "lastFinishedBatch": 0,
+    "totalBatches": 2
+  },
+  {
+    "id": "pdf_7503cb89db1e",
+    "fileName": "GS7.pdf",
+    "sizeBytes": 12286683,
+    "pageCount": 623,
+    "uploadedBy": "kuday6631@gmail.com",
+    "uploadedAt": "2026-10-29T13:26:33.494Z",
+    "status": "uploaded",
+    "storagePath": "local://pdf_7503cb89db1e",
+    "lastFinishedBatch": 0,
+    "totalBatches": 63
+  },
+  {
+    "id": "pdf_b88f786dc32b",
+    "fileName": "GS7.pdf",
+    "sizeBytes": 12286683,
+    "pageCount": 623,
+    "uploadedBy": "kuday6631@gmail.com",
+    "uploadedAt": "2026-10-29T13:22:12.561Z",
+    "status": "uploaded",
+    "storagePath": "local://pdf_b88f786dc32b",
+    "lastFinishedBatch": 0,
+    "totalBatches": 63
+  },
+  {
+    "id": "pdf_f067135ae396",
+    "fileName": "GS7.pdf",
+    "sizeBytes": 12286683,
+    "pageCount": 623,
+    "uploadedBy": "kuday6631@gmail.com",
+    "uploadedAt": "2026-10-29T13:17:05.042Z",
+    "status": "uploaded",
+    "storagePath": "local://pdf_f067135ae396",
+    "lastFinishedBatch": 0,
+    "totalBatches": 63
+  }
+]

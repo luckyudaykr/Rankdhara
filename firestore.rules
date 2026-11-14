@@ -1,0 +1,88 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper function to check if the user is authenticated
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // Helper function to check if user has admin claim
+    function isAdmin() {
+      return isAuthenticated() && (request.auth.token.admin == true);
+    }
+
+    // Public catalog tests: signed-in users can read only Published tests, writes via Admin SDK only
+    match /tests/{testId} {
+      allow read: if isAuthenticated() && (resource.data.status == 'published' || isAdmin());
+      allow write: if false;
+    }
+
+    // User-generated custom practice tests: owner or admin read only, writes via Admin SDK only
+    match /customTests/{testId} {
+      allow read: if isAuthenticated() && (resource.data.ownerUid == request.auth.uid || isAdmin());
+      allow write: if false;
+    }
+
+    // Test attempts: owner or admin read only, writes via Admin SDK only
+    match /attempts/{attemptId} {
+      allow read: if isAuthenticated() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow write: if false;
+    }
+
+    // User profiles: owner or admin read only, writes via Admin SDK only
+    match /users/{userId} {
+      allow read: if isAuthenticated() && (request.auth.uid == userId || isAdmin());
+      allow write: if false;
+    }
+
+    // Bookmarks: owner read only, writes via Admin SDK only
+    match /bookmarks/{bookmarkId} {
+      allow read: if isAuthenticated() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow write: if false;
+    }
+
+    // Cross-device active test progress: owner read only, writes via Admin SDK only
+    match /user_progress/{userId} {
+      allow read: if isAuthenticated() && (request.auth.uid == userId || isAdmin());
+      allow write: if false;
+    }
+
+    // Question reports: owner or admin read only, writes via Admin SDK only
+    match /reports/{reportId} {
+      allow read: if isAuthenticated() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow write: if false;
+    }
+
+    // Exam catalog & translation cache: authenticated read, Admin SDK write only
+    match /exams/{examId} {
+      allow read: if isAuthenticated();
+      allow write: if false;
+    }
+    match /exam_aliases/{aliasId} {
+      allow read: if isAuthenticated();
+      allow write: if false;
+    }
+    match /translations/{hashId} {
+      allow read: if isAuthenticated();
+      allow write: if false;
+    }
+
+    // Admin-only Question PDF Library and extracted questions
+    match /pdfs/{pdfId} {
+      allow read: if isAdmin();
+      allow write: if false;
+
+      match /questions/{questionId} {
+        allow read: if isAdmin();
+        allow write: if false;
+      }
+    }
+
+    // Explicit catch-all deny for all other paths
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
